@@ -1,6 +1,6 @@
 # UFOs
 
-[link to deployed website](https://oscard79.gitghub.io/UFOs/)
+[link to deployed website](https://oscard79.github.io/UFOs/)
 
 ## Overview of the Project
 
