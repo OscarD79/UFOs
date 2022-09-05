@@ -39,7 +39,7 @@ Fig3
 
 ## Summary
 
-In conclusion, the UFO webpage is aesthetic and functional, but it has room for improvement. The table functionality could be improved. It lacks the ability to search by range of dates and could benefit from a few cosmetic changes. I recommend that a second input box be entered to allow the user to add a start date and an end date to search through a range of dates. I also recommend instead of a 1/10/2010, el cajon, ca, us and circle as a place holders, these be updated to "Date", "City", "State", "Country" and "Shape", respectively. The webpage may also be more user friendly if there was a drop down option for the cities, states, shapes and countries (should additional countries be added later).
+In conclusion, the UFO webpage is aesthetic and functional, but it has room for improvement. Being that the table is case sensitive the user may be frustrated by the filtering experience. The overall table functionality could be improved as well. It lacks the ability to search by range of dates and could benefit from a few cosmetic changes. I recommend that a second input box be entered to allow the user to add a start date and an end date to search through a range of dates. I also recommend instead of a "1/10/2010", "el cajon", "ca", "us" and "circle" as a place holders, these be updated to "Date", "City", "State", "Country" and "Shape", respectively. The webpage may also be more user friendly if there was a drop down option for the cities, states, shapes and countries (should additional countries be added later).
 
 <br>
 ## Links to Files used:
