@@ -4,7 +4,7 @@
 
 ## Overview of the Project
 
-The purpose of this project is to create a webpage with a dynamic table to research and review various UFO sightings around the United States. The table can be filtered by date, city, state, country and shape. This site would be great for someone who is researching UFO sightings and would like a way of organizing them with multiple options for filters. 
+The purpose of this project is to create a webpage with a dynamic table to research and review various UFO sightings around the United States. The table can be filtered by date, city, state, country and shape. This site would be great for someone who is researching UFO sightings and would like a way of organizing them with multiple options for filters. This is all completed using Javascript, Bootstrap, HTML and CSS.
 
 ## Results of the Project
 
@@ -39,10 +39,11 @@ Fig3
 
 ## Summary
 
-In conclusion, the UFO webpage is aesthetic and functional, but it has room for improvement. The table functionality could be improved. It lacks the ability to search by range of dates and could benefit from a few cosmetic changes. I recommend that a second input box be entered to allow the user to add a start date and an end date to search through a range of dates. I also recommend instead of a 1/10/2010, el cajon, ca, us and circle as a place holders, these be updated to "Date", "City", "State", "Country" and "Shape", respectively. Additionally, it may be more aesthetically pleasing if the contents of the table did not appear until the search is filtered or perhaps there is a button to view all and/or update the search criteria. 
+In conclusion, the UFO webpage is aesthetic and functional, but it has room for improvement. The table functionality could be improved. It lacks the ability to search by range of dates and could benefit from a few cosmetic changes. I recommend that a second input box be entered to allow the user to add a start date and an end date to search through a range of dates. I also recommend instead of a 1/10/2010, el cajon, ca, us and circle as a place holders, these be updated to "Date", "City", "State", "Country" and "Shape", respectively. The webpage may also be more user friendly if there was a drop down option for the cities, states, shapes and countries (should additional countries be added later).
 
 <br>
 ## Links to Files used:
+<br>
 <br>
 
 [index.html](./index.html)
