@@ -9,7 +9,9 @@ The purpose of this project is to create a webpage with a dynamic table to resea
 ## Results of the Project
 
 <br>
+
 ![mainPage.png](./Resources/mainPage.png)
+
 <br>
 
 
@@ -42,11 +44,18 @@ In conclusion, the UFO webpage is aesthetic and functional, but it has room for 
 <br>
 ## Links to Files used:
 <br>
+
 [index.html](./index.html)
+
 <br>
+
 [app.js](./static/js/app.js)
+
 <br>
+
 [data.js](./static/js/data.js)
+
 <br>
+
 [style.css](./static/css/style.css)
 
